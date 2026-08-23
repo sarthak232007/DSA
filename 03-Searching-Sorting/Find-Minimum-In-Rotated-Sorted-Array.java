@@ -2,7 +2,7 @@
 /*Problem Find Minimum in Rotated Sorted Array */
 /* This solution is made for leetcode  */
 
-public class Solution {
+class Solution {
     
 public int findMin(int [] nums) {
     int start = 0, end = nums.length - 1;
