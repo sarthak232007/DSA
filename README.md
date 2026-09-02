@@ -3,7 +3,7 @@
 Daily DSA practice log, following Striver's A2Z DSA Sheet on LeetCode.
 
 ## 📊 Progress
-- Total Solved: 129
+- Total Solved: 135
 
 
 ## 📁 Structure
